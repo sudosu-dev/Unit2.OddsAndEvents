@@ -1,0 +1,28 @@
+output {
+  display: inline-block;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  border: 3px solid black;
+  border-radius: 4px;
+  min-width: 50%;
+  font-family: monospace;
+  font-size: large;
+}
+
+h2 {
+  display: inline;
+  padding: 0;
+}
+
+/* p {
+  display: inline;
+} */
+
+button {
+  padding: 0.5rem;
+  margin: 1rem;
+}
+
+form {
+  display: inline;
+}
